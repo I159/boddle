@@ -14,7 +14,7 @@ def long_description():
 
 
 setup(
-    name="boddle",
+    name="lp-boddle",
     version=__import__("boddle").__version__,
     description="A unit testing tool for Python's bottle library.",
     long_description=long_description(),
